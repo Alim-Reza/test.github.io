@@ -1,3 +1,4 @@
-#beginning o web dev
+# beginning of web dev
+
 not a very nice beginning !
 
